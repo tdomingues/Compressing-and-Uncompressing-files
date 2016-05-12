@@ -61,7 +61,7 @@ public class Huffman {
             //Compactar
             if (args[0] == null ? "-c" == null : args[0].equals("-c")) {
                 try {
-                    //Campactar
+                    //Compactar
                     String linha;
                     String s = "";
                     //Concatena todas as linhas do arquivo em uma string soh
